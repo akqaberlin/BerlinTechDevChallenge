@@ -1,0 +1,17 @@
+The challenge:
+A simple mobile app which connects to a backend to fetch real public transport berlin data. 
+Two teams: Java / Native vs. Javascript / HTML5 / Node.js
+
+User stories will be
+as a user I want to see a map
+as a user I the app to know where I am
+as as user I the app to show me where I am on a map
+as a user I want to know what stations there are around me
+as a user I want to click on a station and see departutre times
+as developer i want a continuos integration envrionment
+as a developer I want to write tests before I write code
+as a user I want a list of departure times when I have no internet connections
+as a user I would like to use the app on as many mobile devices as possible
+as a developer I want to be able to run automated testing
+
+(NOTE: developer tools are also part of the challenge, as we want to compare development practices)
